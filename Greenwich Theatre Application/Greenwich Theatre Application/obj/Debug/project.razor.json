@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Volumes/RICH USB/System Development Project/Greenwich Theatre Application/Greenwich Theatre Application/Greenwich Theatre Application.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
